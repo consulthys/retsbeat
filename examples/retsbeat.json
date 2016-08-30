@@ -1,0 +1,1160 @@
+{
+  "@timestamp": "2016-08-30T11:19:51.824Z",
+  "beat": {
+    "hostname": "iMac.local",
+    "name": "iMac.local"
+  },
+  "counter": 1,
+  "type": "stats",
+  "stats": {
+    "code": "nnrmls",
+    "resources": {
+      "ActiveAgent": {
+        "@total": {
+          "status": {
+            "@total": 3653,
+            "No": 0,
+            "Yes": 3653
+          },
+          "types": {
+            "@total": 3653,
+            "AFFILIATE": 0,
+            "APPRAISER": 116,
+            "BOARD MLS ONLY": 0,
+            "DESIGNATED REALTOR": 452,
+            "NEW MEMBER": 50,
+            "NON-MEMBER": 23,
+            "REALTOR": 2436,
+            "SECRETARY": 318,
+            "STAFF": 34,
+            "TERMINATED": 0,
+            "VENDORS": 16,
+            "Vendors-B": 208
+          }
+        },
+        "ActiveAgent": {
+          "status": {
+            "@total": 3653,
+            "No": 0,
+            "Yes": 3653
+          },
+          "types": {
+            "@total": 3653,
+            "AFFILIATE": 0,
+            "APPRAISER": 116,
+            "BOARD MLS ONLY": 0,
+            "DESIGNATED REALTOR": 452,
+            "NEW MEMBER": 50,
+            "NON-MEMBER": 23,
+            "REALTOR": 2436,
+            "SECRETARY": 318,
+            "STAFF": 34,
+            "TERMINATED": 0,
+            "VENDORS": 16,
+            "Vendors-B": 208
+          }
+        }
+      },
+      "ActiveOffice": {
+        "@total": {},
+        "ActiveOffice": {}
+      },
+      "Agent": {
+        "@total": {
+          "status": {
+            "@total": 10625,
+            "No": 6972,
+            "Yes": 3653
+          },
+          "types": {
+            "@total": 10625,
+            "AFFILIATE": 220,
+            "APPRAISER": 163,
+            "BOARD MLS ONLY": 6,
+            "DESIGNATED REALTOR": 1129,
+            "NEW MEMBER": 161,
+            "NON-MEMBER": 1119,
+            "REALTOR": 6234,
+            "SECRETARY": 509,
+            "STAFF": 74,
+            "TERMINATED": 775,
+            "VENDORS": 20,
+            "Vendors-B": 215
+          }
+        },
+        "Agent": {
+          "custom": {
+            "active-agents": 3653,
+            "billable-agents": 3054
+          },
+          "status": {
+            "@total": 10625,
+            "No": 6972,
+            "Yes": 3653
+          },
+          "types": {
+            "@total": 10625,
+            "AFFILIATE": 220,
+            "APPRAISER": 163,
+            "BOARD MLS ONLY": 6,
+            "DESIGNATED REALTOR": 1129,
+            "NEW MEMBER": 161,
+            "NON-MEMBER": 1119,
+            "REALTOR": 6234,
+            "SECRETARY": 509,
+            "STAFF": 74,
+            "TERMINATED": 775,
+            "VENDORS": 20,
+            "Vendors-B": 215
+          }
+        }
+      },
+      "Contact": {
+        "@total": {
+          "status": {
+            "@total": 167679,
+            "Active": 151516,
+            "Inactive": 16163
+          }
+        },
+        "Contact": {
+          "status": {
+            "@total": 167679,
+            "Active": 151516,
+            "Inactive": 16163
+          }
+        }
+      },
+      "Deleted": {
+        "@total": {},
+        "Agent": {},
+        "Office": {},
+        "Property": {}
+      },
+      "Hotsheet": {
+        "@total": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "BS_5": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "CI_3": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "FR_7": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "LO_6": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "MF_4": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "RE_1": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "RT_8": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "VL_2": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        }
+      },
+      "Media": {
+        "@total": {
+          "status": {
+            "@total": 42283,
+            "ACTIVE": 762,
+            "Active/Pending-Call": 68,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 3464,
+            "Extended": 13,
+            "New": 41,
+            "PENDING-No Show": 95,
+            "Price Raised": 0,
+            "Price Reduced": 5,
+            "RENTED": 26082,
+            "SOLD": 6339,
+            "Temporarily Off Market": 1,
+            "WITHDRAWN": 5413
+          }
+        },
+        "BS_5": {
+          "status": {
+            "@total": 2408,
+            "ACTIVE": 31,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 1235,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 438,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 704
+          }
+        },
+        "CI_3": {
+          "status": {
+            "@total": 16844,
+            "ACTIVE": 1677,
+            "Active/Pending-Call": 145,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 34,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 6182,
+            "Extended": 24,
+            "New": 0,
+            "PENDING-No Show": 54,
+            "Price Raised": 0,
+            "Price Reduced": 37,
+            "RENTED": 34,
+            "SOLD": 4143,
+            "Temporarily Off Market": 9,
+            "WITHDRAWN": 4505
+          }
+        },
+        "FR_7": {
+          "status": {
+            "@total": 2912,
+            "ACTIVE": 400,
+            "Active/Pending-Call": 35,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 1151,
+            "Extended": 0,
+            "New": 28,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 544,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 754
+          }
+        },
+        "LO_6": {
+          "status": {
+            "@total": 3975,
+            "ACTIVE": 214,
+            "Active/Pending-Call": 12,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 1555,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 3,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 870,
+            "SOLD": 293,
+            "Temporarily Off Market": 20,
+            "WITHDRAWN": 1008
+          }
+        },
+        "MF_4": {
+          "status": {
+            "@total": 24134,
+            "ACTIVE": 943,
+            "Active/Pending-Call": 94,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 159,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 4,
+            "EXPIRED": 5406,
+            "Extended": 0,
+            "New": 31,
+            "PENDING-No Show": 193,
+            "Price Raised": 0,
+            "Price Reduced": 16,
+            "RENTED": 3,
+            "SOLD": 11811,
+            "Temporarily Off Market": 8,
+            "WITHDRAWN": 5466
+          }
+        },
+        "RE_1": {
+          "status": {
+            "@total": 1.625738e+06,
+            "ACTIVE": 50642,
+            "Active/Pending-Call": 5000,
+            "Active/Pending-House": 2965,
+            "Active/Pending-Loan": 16257,
+            "Active/Pending-Short Sale": 1419,
+            "Back On Market": 228,
+            "EXPIRED": 199436,
+            "Extended": 506,
+            "New": 2234,
+            "PENDING-No Show": 7441,
+            "Price Raised": 36,
+            "Price Reduced": 2605,
+            "RENTED": 828,
+            "SOLD": 1.000173e+06,
+            "Temporarily Off Market": 1712,
+            "WITHDRAWN": 334256
+          }
+        },
+        "RT_8": {
+          "status": {
+            "@total": 42283,
+            "ACTIVE": 762,
+            "Active/Pending-Call": 68,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 3464,
+            "Extended": 13,
+            "New": 41,
+            "PENDING-No Show": 95,
+            "Price Raised": 0,
+            "Price Reduced": 5,
+            "RENTED": 26082,
+            "SOLD": 6339,
+            "Temporarily Off Market": 1,
+            "WITHDRAWN": 5413
+          }
+        },
+        "VL_2": {
+          "status": {
+            "@total": 106539,
+            "ACTIVE": 12068,
+            "Active/Pending-Call": 377,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 90,
+            "Active/Pending-Short Sale": 15,
+            "Back On Market": 11,
+            "EXPIRED": 40950,
+            "Extended": 138,
+            "New": 68,
+            "PENDING-No Show": 168,
+            "Price Raised": 1,
+            "Price Reduced": 168,
+            "RENTED": 0,
+            "SOLD": 31005,
+            "Temporarily Off Market": 49,
+            "WITHDRAWN": 21431
+          }
+        }
+      },
+      "Office": {
+        "@total": {},
+        "Office": {}
+      },
+      "OpenHouse": {
+        "@total": {
+          "status": {
+            "@total": 2,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 2,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "BS_5": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "CI_3": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "FR_7": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "LO_6": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "MF_4": {
+          "status": {
+            "@total": 5,
+            "ACTIVE": 4,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 1
+          }
+        },
+        "RE_1": {
+          "status": {
+            "@total": 1444,
+            "ACTIVE": 678,
+            "Active/Pending-Call": 42,
+            "Active/Pending-House": 49,
+            "Active/Pending-Loan": 212,
+            "Active/Pending-Short Sale": 6,
+            "Back On Market": 1,
+            "EXPIRED": 6,
+            "Extended": 11,
+            "New": 6,
+            "PENDING-No Show": 39,
+            "Price Raised": 3,
+            "Price Reduced": 44,
+            "RENTED": 0,
+            "SOLD": 222,
+            "Temporarily Off Market": 6,
+            "WITHDRAWN": 119
+          }
+        },
+        "RT_8": {
+          "status": {
+            "@total": 2,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 2,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "VL_2": {
+          "status": {
+            "@total": 1,
+            "ACTIVE": 1,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        }
+      },
+      "PartialProperty": {
+        "@total": {
+          "status": {
+            "@total": 0,
+            "Partial Listing": 0
+          }
+        },
+        "BS_5": {
+          "status": {
+            "@total": 0,
+            "Partial Listing": 0
+          }
+        },
+        "CI_3": {
+          "status": {
+            "@total": 0,
+            "Partial Listing": 0
+          }
+        },
+        "FR_7": {
+          "status": {
+            "@total": 0,
+            "Partial Listing": 0
+          }
+        },
+        "LO_6": {
+          "status": {
+            "@total": 0,
+            "Partial Listing": 0
+          }
+        },
+        "MF_4": {
+          "status": {
+            "@total": 0,
+            "Partial Listing": 0
+          }
+        },
+        "RE_1": {
+          "status": {
+            "@total": 0,
+            "Partial Listing": 0
+          }
+        },
+        "RT_8": {
+          "status": {
+            "@total": 0,
+            "Partial Listing": 0
+          }
+        },
+        "VL_2": {
+          "status": {
+            "@total": 0,
+            "Partial Listing": 0
+          }
+        }
+      },
+      "Property": {
+        "@total": {
+          "status": {
+            "@total": 13355,
+            "ACTIVE": 66,
+            "Active/Pending-Call": 5,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 5427,
+            "Extended": 2,
+            "New": 3,
+            "PENDING-No Show": 8,
+            "Price Raised": 0,
+            "Price Reduced": 1,
+            "RENTED": 4554,
+            "SOLD": 1216,
+            "Temporarily Off Market": 1,
+            "WITHDRAWN": 2072
+          }
+        },
+        "BS_5": {
+          "status": {
+            "@total": 1288,
+            "ACTIVE": 6,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 743,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 223,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 316
+          }
+        },
+        "CI_3": {
+          "status": {
+            "@total": 5169,
+            "ACTIVE": 162,
+            "Active/Pending-Call": 11,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 4,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 2035,
+            "Extended": 1,
+            "New": 0,
+            "PENDING-No Show": 9,
+            "Price Raised": 0,
+            "Price Reduced": 2,
+            "RENTED": 14,
+            "SOLD": 1661,
+            "Temporarily Off Market": 2,
+            "WITHDRAWN": 1268
+          }
+        },
+        "FR_7": {
+          "status": {
+            "@total": 536,
+            "ACTIVE": 22,
+            "Active/Pending-Call": 2,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 226,
+            "Extended": 0,
+            "New": 2,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 150,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 134
+          }
+        },
+        "LO_6": {
+          "status": {
+            "@total": 1331,
+            "ACTIVE": 30,
+            "Active/Pending-Call": 1,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 650,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 2,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 223,
+            "SOLD": 139,
+            "Temporarily Off Market": 1,
+            "WITHDRAWN": 285
+          }
+        },
+        "MF_4": {
+          "status": {
+            "@total": 7800,
+            "ACTIVE": 98,
+            "Active/Pending-Call": 8,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 15,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 1,
+            "EXPIRED": 2214,
+            "Extended": 0,
+            "New": 3,
+            "PENDING-No Show": 21,
+            "Price Raised": 0,
+            "Price Reduced": 1,
+            "RENTED": 2,
+            "SOLD": 3794,
+            "Temporarily Off Market": 2,
+            "WITHDRAWN": 1641
+          }
+        },
+        "RE_1": {
+          "status": {
+            "@total": 283400,
+            "ACTIVE": 2787,
+            "Active/Pending-Call": 306,
+            "Active/Pending-House": 149,
+            "Active/Pending-Loan": 909,
+            "Active/Pending-Short Sale": 153,
+            "Back On Market": 14,
+            "EXPIRED": 41745,
+            "Extended": 29,
+            "New": 138,
+            "PENDING-No Show": 513,
+            "Price Raised": 2,
+            "Price Reduced": 143,
+            "RENTED": 140,
+            "SOLD": 176792,
+            "Temporarily Off Market": 116,
+            "WITHDRAWN": 59464
+          }
+        },
+        "RT_8": {
+          "status": {
+            "@total": 13355,
+            "ACTIVE": 66,
+            "Active/Pending-Call": 5,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 5427,
+            "Extended": 2,
+            "New": 3,
+            "PENDING-No Show": 8,
+            "Price Raised": 0,
+            "Price Reduced": 1,
+            "RENTED": 4554,
+            "SOLD": 1216,
+            "Temporarily Off Market": 1,
+            "WITHDRAWN": 2072
+          }
+        },
+        "VL_2": {
+          "status": {
+            "@total": 44190,
+            "ACTIVE": 1872,
+            "Active/Pending-Call": 53,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 11,
+            "Active/Pending-Short Sale": 1,
+            "Back On Market": 2,
+            "EXPIRED": 18103,
+            "Extended": 17,
+            "New": 17,
+            "PENDING-No Show": 51,
+            "Price Raised": 1,
+            "Price Reduced": 18,
+            "RENTED": 4,
+            "SOLD": 15930,
+            "Temporarily Off Market": 4,
+            "WITHDRAWN": 8106
+          }
+        }
+      },
+      "Tax": {
+        "@total": {},
+        "CarsonCounty_1": {},
+        "ChurchillCounty_2": {},
+        "DouglasCounty_3": {},
+        "LyonCounty_4": {},
+        "StoreyCounty_8": {},
+        "WashoeCounty_5": {}
+      },
+      "Tour": {
+        "@total": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "BS_5": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "CI_3": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "FR_7": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "LO_6": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "MF_4": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "RE_1": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "RT_8": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        },
+        "VL_2": {
+          "status": {
+            "@total": 0,
+            "ACTIVE": 0,
+            "Active/Pending-Call": 0,
+            "Active/Pending-House": 0,
+            "Active/Pending-Loan": 0,
+            "Active/Pending-Short Sale": 0,
+            "Back On Market": 0,
+            "EXPIRED": 0,
+            "Extended": 0,
+            "New": 0,
+            "PENDING-No Show": 0,
+            "Price Raised": 0,
+            "Price Reduced": 0,
+            "RENTED": 0,
+            "SOLD": 0,
+            "Temporarily Off Market": 0,
+            "WITHDRAWN": 0
+          }
+        }
+      }
+    }
+  }
+}

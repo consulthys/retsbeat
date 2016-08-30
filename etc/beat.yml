@@ -1,0 +1,38 @@
+################### Retsbeat Configuration Example #########################
+
+############################# Retsbeat ######################################
+
+retsbeat:
+  # Defines how often an event is sent to the output
+  period: 10m
+
+  # All configured RETS servers
+  servers:
+    - code: mymls
+      connection:
+        url: http://rets.mymls.com/Login
+        username: me
+        password: 123
+        user_agent: You/1.0
+        user_agent_password: 123
+        rets_version: RETS/1.5
+      status:
+        - L_Status # Property, Media, ...
+        - C_ContactStatus # Contact
+        - U_user_is_active # Agent, ActiveAgent
+      type:
+        - U_HiddenUsCID # Agent, ActiveAgent
+      custom:
+        - resource: Agent
+          class: Agent
+          key: active-agents
+          query: (U_user_is_active=1)
+        - resource: Agent
+          class: Agent
+          key: billable-agents
+          query: (U_user_is_active=1)
+        - resource: Property
+          class: RE_1
+          key: active-residential
+          query: (L_Status=1_0)
+
